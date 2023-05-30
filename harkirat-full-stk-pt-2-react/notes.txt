@@ -1,0 +1,5 @@
+
+
+1. Browser need to follow a standard, set by an organisation(W3C?)
+2. If HTTP response contains a HTML, then need to render things in the browser
+
